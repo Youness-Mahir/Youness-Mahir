@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋, I'm Youness Mahir
 
-<!--
-**Youness-Mahir/Youness-Mahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst & Business Analyst focused on turning raw transactional data into structured, actionable business insights. Currently expanding my skill set into Data Engineering to build reliable, end-to-end data pipelines and database infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Core Competencies
+- **Data Analysis & SQL:** T-SQL (SQL Server), PostgreSQL, Query Optimization, Data Profiling & Auditing
+- **Tooling & Workflow:** VS Code, Git/GitHub, pgAdmin
+
+---
+
+### 🚀 Featured Project
+- **[AdventureWorks-Sales-Analysis](https://github.com/Youness-Mahir/AdventureWorks-Sales-Analysis)** — An end-to-end T-SQL project covering data quality auditing, exploratory analysis, RFM segmentation, and strategic business recommendations.
+
+---
+
+### 📊 GitHub Stats
+![Youness's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youness-Mahir&show_icons=true&theme=radical)
