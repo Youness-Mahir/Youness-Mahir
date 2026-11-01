@@ -13,7 +13,3 @@ Data Analyst & Business Analyst focused on turning raw transactional data into s
 ### 🚀 Featured Project
 - **[AdventureWorks-Sales-Analysis](https://github.com/Youness-Mahir/AdventureWorks-Sales-Analysis)** — An end-to-end T-SQL project covering data quality auditing, exploratory analysis, RFM segmentation, and strategic business recommendations.
 
----
-
-### 📊 GitHub Stats
-![Youness's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youness-Mahir&show_icons=true&theme=radical)
